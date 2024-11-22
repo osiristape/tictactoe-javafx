@@ -1,2 +1,2 @@
-# tictaetoe-javafx
+# tictactoe-javafx
 gui
